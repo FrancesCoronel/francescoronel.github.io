@@ -17,6 +17,7 @@ March 2018 to July 2020
 Hugo
 
 https://github.com/FrancesCoronel/personal-website-v3
+
 https://github.com/FrancesCoronel/personal-website-v2
 
 ## v2
