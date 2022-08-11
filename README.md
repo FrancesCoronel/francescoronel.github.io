@@ -2,8 +2,6 @@
 
 Just redirects to my main website.
 
-## Past versions of my website
-
 ## v5
 
 July 2020 to Present
