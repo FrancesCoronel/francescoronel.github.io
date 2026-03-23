@@ -6,7 +6,7 @@ Redirects to my main website at [francescoronel.com](https://francescoronel.com)
 
 ## v6 — Current
 
-2025 to Present
+March 22, 2026 to Present
 
 Next.js 16 (App Router), Tailwind CSS 4, MDX, Pagefind, Vercel
 
@@ -14,7 +14,7 @@ https://github.com/FrancesCoronel/francescoronel.com
 
 ## v5
 
-July 2020 to 2025
+July 2020 to March 22, 2026
 
 WordPress → Webflow
 
